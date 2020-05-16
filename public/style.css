@@ -1,0 +1,5 @@
+ul {
+    font-family: 'Indie Flower', cursive;
+    background: rgb(33, 21, 238);
+    background: linear-gradient(90deg, rgba(33, 21, 238, 1) 0%, rgba(25, 193, 62, 1) 29%, rgba(0, 212, 255, 1) 100%);
+}
